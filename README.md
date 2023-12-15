@@ -43,5 +43,5 @@
 
 ## 部署教程
 
-### 1. <a href="">Linux 纯手工部署</a>
+### 1. <a href="https://github.com/liy-admin/dujiaoka-tgBot/wiki/Linux-%E7%BA%AF%E6%89%8B%E5%B7%A5">Linux 纯手工部署</a>
 ### 2. <a href="https://github.com/liy-admin/dujiaoka-tgBot/wiki/%E5%AE%9D%E5%A1%94-%E2%80%90-%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B">宝塔部署</a>
