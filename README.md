@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.oracle.com/cn/java/technologies/javase/javase8-archive-downloads.html"><img src="https://img.shields.io/badge/Java-8-green.svg" alt="java 1.8"></a>
 <a href="https://t.me/djsk_bot_group"><img src="https://img.shields.io/badge/Telegram-Group-blue"></a>
-<a href="https://github.com/liy-admin/dujiaoka-tgBot/releases/tag/1.0.2"><img src="https://img.shields.io/badge/version-1.0.1-red" alt="version 1.0.2"></a>
+<a href="https://github.com/liy-admin/dujiaoka-tgBot/releases/tag/1.0.2"><img src="https://img.shields.io/badge/version-1.0.2-red" alt="version 1.0.2"></a>
 
 </p>
 
