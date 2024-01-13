@@ -19,7 +19,7 @@
 ## 搭建环境
 1. 一台linux 64位服务器，推荐centos7 x64
 2. 一个不常规的子域名，推荐使用cloudflare解析，这样会方便本地运行。如果你不会，可以先去  <b><a href="https://www.google.com/search?q=cloudflare%E4%BD%BF%E7%94%A8">看看</a></b>
-3. Java1.8环境，推荐使用  <a href="https://www.oracle.com/cn/java/technologies/javase/javase8-archive-downloads.html">java 1.8</a>
+3. Java (1.8 | 17)环境 ，推荐使用  <a href="https://www.oracle.com/cn/java/technologies/javase/javase8-archive-downloads.html">java 1.8</a>
 4. 我这里使用的是  Mysql 5.7 版本
 
 ## 使用交流
