@@ -24,7 +24,7 @@
 
 ## 使用交流
 
-### 测试机器人： <a href="https://t.me/testgtgbot">独角机器人  (由于测试 · 没有易支付接口)</a> 
+### 测试机器人： <a href="https://t.me/djfkw_bot">独角机器人  (由于测试 · 没有易支付接口)</a> 
 
 ### Telegram: <a href="https://t.me/djsk_bot_group">交流群</a>
 
