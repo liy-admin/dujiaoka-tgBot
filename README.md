@@ -26,9 +26,7 @@
 
 ### 测试机器人： <a href="https://t.me/djfkw_bot">独角机器人  (由于测试 · 没有易支付接口)</a> 
 
-### Telegram: <a href="https://t.me/djsk_bot_group">交流群</a>
-
-### Telegram 官方频道： <a href="https://t.me/djsk_bot">独角机器人</a>  (系统更新通知，bug更新，重大事件推送)
+### Telegram 官方频道： <a href="https://t.me/djsk_new">独角机器人</a>  (系统更新通知，bug更新，重大事件推送)
 
 ## 目前功能
 - [x] 机器人自定义内网穿透
